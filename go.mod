@@ -17,7 +17,7 @@ require (
 	go.opentelemetry.io/contrib/propagators v0.16.0
 	go.opentelemetry.io/otel v0.16.0
 	go.opentelemetry.io/otel/exporters/trace/jaeger v0.16.0
-	golang.org/x/net v0.0.0-20201031054903-ff519b6c9102
+	golang.org/x/net v0.7.0
 	google.golang.org/grpc v1.34.0
 )
 
@@ -36,8 +36,8 @@ require (
 	go.opentelemetry.io/contrib v0.16.0 // indirect
 	go.opentelemetry.io/otel/sdk v0.16.0 // indirect
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9 // indirect
-	golang.org/x/sys v0.0.0-20201201145000-ef89a241ccb3 // indirect
-	golang.org/x/text v0.3.4 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	google.golang.org/api v0.36.0 // indirect
 	google.golang.org/genproto v0.0.0-20201201144952-b05cb90ed32e // indirect
 	google.golang.org/protobuf v1.25.0 // indirect
